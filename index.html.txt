@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Juan Gallarday</h1>
+
+<p>Soy Juan Gallarday. Estudio Ingeniería Industrial en la UTEC, me gustan los videojuegos y las series en Netflix.</p>
+
+<h2>Mis Comidas</h2>
+
+<p>Mi comida favorita son los makis. Pero los sigue muy de cerca la lasagña.
+
+<h2></h2>
+
+<h2></h2>
+
+<h2></h2>
+
+<h2>Amigos</h2>
+
+<p>'Insertar Links de Amigos'</p>
+
+</body>
+</html>
